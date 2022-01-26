@@ -1,0 +1,6 @@
+node_modules
+public/images/*
+public/files/*
+./node_modules
+newrelic.js 
+newrelic_agent.log 
