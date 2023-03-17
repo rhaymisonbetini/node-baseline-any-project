@@ -3,7 +3,9 @@
 ## 1 - COMO INSTALAR
   
   Inicialmente clone o repositório com o comando: <br/>
-  ```https://github.com/rhaymisonbetini/framework-pai-eu.git````
+ ```
+git clone https://github.com/rhaymisonbetini/node-baseline-any-project.git
+```
   
   Entre na posta raiz do projo e execute o comando: <br/>
   ``` npm install ```
